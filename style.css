@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+*{
+    font-family: "Arial","Times New Roman",sans-serif;
+}
+
+.headerStyle{
+    background-color: blue;
+    color: white;
+}
+
+
+
+.linkStyle{
+    background-color: blueviolet;
+    font-size: 50px;
+    
+}
+
+p{
+    background-color: gold;
+    font-size: 100px;
+}
+
+ul,
+ol{
+    background-color: aqua;
+}
+
+
+.disoriented{
+    width: auto;
+    height:250px;
+}
